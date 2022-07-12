@@ -66,7 +66,7 @@ public class QueueCircularImplement2 {
         q.add(3);
         q.add(4);
         q.add(5);
-        System.out.println(q.remove());
+        System.out.println(q.remove()); 
         q.add(6);
         System.out.println(q.remove());
         q.add(7);
